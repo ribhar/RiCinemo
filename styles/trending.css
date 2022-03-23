@@ -1,0 +1,31 @@
+#sort-buttonsdiv{
+    margin-top: 70px;
+}
+#movies{
+    padding: 30px 15px;
+    grid-template-columns: repeat(5, 1fr);
+}
+#movies>div{
+    background: #FFEFBA;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFFFF, #FFEFBA); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    /* border: 1px solid; */
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    /* border: 1px solid red;  */
+    /* justify-content: ; */
+}
+#movies>div>img{
+    border-radius: 5px;
+
+}
+#movies>div>h3{
+    margin: 5px 0;
+}
+#movies>div>p{
+    margin: 5px 0;
+}
