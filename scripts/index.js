@@ -92,7 +92,7 @@ setInterval(function () {
 let moviesData = [
     
     {
-        poster: "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX67_CR0,0,67,98_AL_.jpg",
+        poster: "https://m.media-amazon.com/images/M/MV5BNzg4MjQxNTQtZmI5My00YjMwLWJlMjUtMmJlY2U2ZWFlNzY1XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX140_CR0,0,140,209_AL_.jpg",
         name: "Star Wars",
         category: "Action, Adventure, Fantasy",
         rdate: "(1977)",
