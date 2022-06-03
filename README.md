@@ -3,7 +3,7 @@ RiCinemo is a movie explorer website, where one can get most info of their favor
 
 ### Live deployed URL: https://ricinemo.netlify.app/
 
-### Blog Post: https://medium.com/@ribhar/project-ricinemo-64124713caf0
+### Blog URL: https://medium.com/@ribhar/project-ricinemo-64124713caf0
 
 
  <h2>Landing Page</h2>
