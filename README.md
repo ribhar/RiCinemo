@@ -13,7 +13,7 @@ RiCinemo is a movie explorer website, where one can get most info of their favor
        <h2>Movie Page</h2>
     <img src="https://github.com/ribhar/RiCinemo/blob/main/assets/searched.PNG" />
         <h2>Trending Page</h2>
-    <img src="https://github.com/ribhar/RiCinemo/blob/main/assets/trending.png" />
+    <img src="https://github.com/ribhar/RiCinemo/blob/main/assets/trending.PNG" />
     <h1>[Getting Started]</h1>
     <h3>Execution</h3>
     <p>If you want to run our project in your local machine</p>
