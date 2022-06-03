@@ -1,7 +1,7 @@
 <h1>RiCinemo</h1>
 RiCinemo is a movie explorer website, where one can get most info of their favorite movies and the trending movies along with the ratings.
 
-### Live deployed URL: ricinemo.netlify.app
+### Live deployed URL: https://ricinemo.netlify.app/
 
 <!-- ### Blog Post: https://www.linkedin.com/in/ribhar/details/projects/ -->
 
